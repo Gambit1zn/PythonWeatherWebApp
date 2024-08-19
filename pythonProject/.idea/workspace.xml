@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eb69ea-27f6-452f-a06f-f985fd3f9226" name="Changes" comment="Corrected names">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../weather-web-app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weather-web-app/.idea/weather-web-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-web-app/.idea/weather-web-app.iml" afterDir="false" />
-    </list>
+    <list default="true" id="43eb69ea-27f6-452f-a06f-f985fd3f9226" name="Changes" comment="Created form" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,13 +222,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724086781894</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created form">
+      <option name="closed" value="true" />
+      <created>1724089692128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724089692128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Corrected names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected names" />
+    <MESSAGE value="Created form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created form" />
   </component>
 </project>
